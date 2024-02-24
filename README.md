@@ -23,6 +23,7 @@ Enter the length of uppercase letters you want: 2
 Enter the length of numbers you want: 2
 Enter the length of special characters you want: 1
 mgsxrnGJ63@$
+```
 
 © 2024 Hakimisme 🌟
 
