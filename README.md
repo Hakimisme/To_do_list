@@ -1,4 +1,4 @@
-# Random Password Generator 🔑
+# Password Generator 🔑
 
 This Python script generates random passwords by combining lowercase letters, uppercase letters, numbers, and special characters.
 
@@ -30,7 +30,7 @@ mgsxrnGJ63@$
 ___________________________________________________________________________________________________________________________________________
 ___________________________________________________________________________________________________________________________________________
 
-# Générateur de mots de passe aléatoires 🔑
+# Générateur de mots de passe 🔑
 
 Ce script Python génère des mots de passe aléatoires en combinant des lettres minuscules, des lettres majuscules, des chiffres et des caractères spéciaux.
 
