@@ -1,6 +1,6 @@
-# To-Do List Manager 📝✨
+# To-Do List  📝✨
 
-Welcome to To-Do List Manager! This simple program allows you to manage your tasks efficiently. You can add, view, and delete tasks with ease. Follow the instructions below to get started.
+Welcome to To-Do List ! This simple program allows you to manage your tasks efficiently. You can add, view, and delete tasks with ease. Follow the instructions below to get started.
 
 ## Installation 🚀
 
@@ -57,7 +57,7 @@ ________________________________________________________________________________
 
 # Gestionnaire de Liste de Tâches 📝✨
 
-Bienvenue dans To-Do List Manager ! Ce programme simple vous permet de gérer vos tâches efficacement. Vous pouvez ajouter, afficher et supprimer des tâches avec facilité. Suivez les instructions ci-dessous pour commencer.
+Bienvenue dans To-Do List  ! Ce programme simple vous permet de gérer vos tâches efficacement. Vous pouvez ajouter, afficher et supprimer des tâches avec facilité. Suivez les instructions ci-dessous pour commencer.
 
 ## Installation 🚀
 
