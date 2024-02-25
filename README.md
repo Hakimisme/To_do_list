@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Password Generator 🔑
 
 This Python script generates random passwords by combining lowercase letters, uppercase letters, numbers, and special characters.
@@ -59,3 +60,6 @@ mgsxrnGJ63@$
 
 © 2024 Hakimisme 🌟
 
+=======
+# To_do_list
+>>>>>>> 7b21166423f5086803cbc9179607d8652b54e85d
